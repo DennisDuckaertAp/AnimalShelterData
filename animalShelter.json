@@ -6,7 +6,7 @@
         "capacity": 50,
         "atCapacity": false,
         "openingDate": "2023-07-20",
-        "photoURL": "https://example.com/animal_shelter_paws.jpg",
+        "photoURL": "https://raw.githubusercontent.com/DennisDuckaertAp/AnimalShelterData/main/AnimalShelterPaws.jpg",
         "welcomeAnimals": ["Dogs", "Cats", "Rabbits", "Birds"],
         "healthStatus": "Healthy animals",
         "contactPerson": {
@@ -24,7 +24,7 @@
         "capacity": 15,
         "atCapacity": true,
         "openingDate": "2024-02-15",
-        "photoURL": "https://example.com/animal_shelter_tails.jpg",
+        "photoURL": "https://raw.githubusercontent.com/DennisDuckaertAp/AnimalShelterData/main/AnimalShelterTails.jpg",
         "welcomeAnimals": ["Rabbits", "Guinea Pigs", "Snakes", "Turtles"],
         "healthStatus": "Both",
         "contactPerson": {
@@ -42,7 +42,7 @@
         "capacity": 40,
         "atCapacity": false,
         "openingDate": "2023-11-10",
-        "photoURL": "https://example.com/friendly_furry_friends_shelter.jpg",
+        "photoURL": "https://raw.githubusercontent.com/DennisDuckaertAp/AnimalShelterData/main/FriendlyFurryFriendsShelter.jpg",
         "welcomeAnimals": ["Dogs", "Cats", "Rabbits", "Hamsters"],
         "healthStatus": "Animals with medical needs",
         "contactPerson": {
@@ -60,7 +60,7 @@
         "capacity": 20,
         "atCapacity": false,
         "openingDate": "2023-09-05",
-        "photoURL": "https://example.com/critter_care_haven.jpg",
+        "photoURL": "https://raw.githubusercontent.com/DennisDuckaertAp/AnimalShelterData/main/CritterCareHaven.jpg",
         "welcomeAnimals": ["Guinea Pigs", "Hamsters", "Turtles", "Geckos"],
         "healthStatus": "Healthy animals",
         "contactPerson": {
@@ -78,7 +78,7 @@
         "capacity": 60,
         "atCapacity": false,
         "openingDate": "2024-03-20",
-        "photoURL": "https://example.com/paws_and_claws_rescue.jpg",
+        "photoURL": "https://raw.githubusercontent.com/DennisDuckaertAp/AnimalShelterData/main/PawsAndClawsRescueCenter.jpg",
         "welcomeAnimals": ["Dogs", "Cats", "Rabbits", "Birds", "Turtles"],
         "healthStatus": "Both",
         "contactPerson": {
@@ -96,7 +96,7 @@
         "capacity": 18,
         "atCapacity": true,
         "openingDate": "2023-12-15",
-        "photoURL": "https://example.com/happy_tails_sanctuary.jpg",
+        "photoURL": "https://raw.githubusercontent.com/DennisDuckaertAp/AnimalShelterData/main/HappyTailsSanctuary.jpg",
         "welcomeAnimals": ["Senior Dogs", "Special Needs Cats", "Rescued Birds"],
         "healthStatus": "Animals with medical needs",
         "contactPerson": {
@@ -114,7 +114,7 @@
         "capacity": 35,
         "atCapacity": false,
         "openingDate": "2023-10-10",
-        "photoURL": "https://example.com/furry_friends_haven.jpg",
+        "photoURL": "https://raw.githubusercontent.com/DennisDuckaertAp/AnimalShelterData/main/FurryFriendsHaven.jpg",
         "welcomeAnimals": ["Dogs", "Cats", "Rabbits", "Hamsters", "Guinea Pigs"],
         "healthStatus": "Healthy animals",
         "contactPerson": {
@@ -132,7 +132,7 @@
         "capacity": 20,
         "atCapacity": false,
         "openingDate": "2024-01-20",
-        "photoURL": "https://example.com/wildlife_rescue_center.jpg",
+        "photoURL": "https://raw.githubusercontent.com/DennisDuckaertAp/AnimalShelterData/main/WildlifeRescueCenter.jpg",
         "welcomeAnimals": ["Birds of Prey", "Small Mammals", "Reptiles"],
         "healthStatus": "Animals with medical needs",
         "contactPerson": {
@@ -150,7 +150,7 @@
         "capacity": 50,
         "atCapacity": false,
         "openingDate": "2023-09-15",
-        "photoURL": "https://example.com/hopeful_hearts_sanctuary.jpg",
+        "photoURL": "https://raw.githubusercontent.com/DennisDuckaertAp/AnimalShelterData/main/HopefulHeartsAnimalSanctuary.jpg",
         "welcomeAnimals": ["Dogs", "Cats", "Horses", "Pigs", "Goats"],
         "healthStatus": "Both",
         "contactPerson": {
@@ -168,7 +168,7 @@
         "capacity": 30,
         "atCapacity": false,
         "openingDate": "2023-12-01",
-        "photoURL": "https://example.com/feathered_friends_aviary.jpg",
+        "photoURL": "https://raw.githubusercontent.com/DennisDuckaertAp/AnimalShelterData/main/FeatheredFriendsAviary.jpg",
         "welcomeAnimals": ["Parrots", "Cockatoos", "Macaws", "Toucans"],
         "healthStatus": "Healthy animals",
         "contactPerson": {
