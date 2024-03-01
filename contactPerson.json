@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Lisa Jacobs",
+        "position": "Shelter Manager",
+        "email": "lisa.jacobs@animalshelter.com",
+        "phone": "+31 123456789"
+    },
+    {
+        "id": 2,
+        "name": "Peter Jansen",
+        "position": "Animal Caretaker",
+        "email": "peter.jansen@animalshelter.com",
+        "phone": "+31 987654321"
+    },
+    {
+        "id": 3,
+        "name": "Emily Johnson",
+        "position": "Adoption Coordinator",
+        "email": "emily.johnson@friendlyshelter.com",
+        "phone": "+31 987654321"
+    },
+    {
+        "id": 4,
+        "name": "Sarah Thompson",
+        "position": "Animal Welfare Officer",
+        "email": "sarah.thompson@crittercare.com",
+        "phone": "+31 123456789"
+    },
+    {
+        "id": 5,
+        "name": "David Wilson",
+        "position": "Rescue Coordinator",
+        "email": "david.wilson@pawsandclawsrescue.com",
+        "phone": "+31 123456789"
+    },
+    {
+        "id": 6,
+        "name": "Michelle Brown",
+        "position": "Sanctuary Manager",
+        "email": "michelle.brown@happytails.com",
+        "phone": "+31 987654321"
+    },
+    {
+        "id": 7,
+        "name": "Emma Carter",
+        "position": "Shelter Coordinator",
+        "email": "emma.carter@furryfriendshaven.com",
+        "phone": "+31 123456789"
+    },
+    {
+        "id": 8,
+        "name": "John Smith",
+        "position": "Wildlife Rehabilitator",
+        "email": "john.smith@wildliferescuecenter.com",
+        "phone": "+31 987654321"
+    },
+    {
+        "id": 9,
+        "name": "Sarah Thompson",
+        "position": "Sanctuary Manager",
+        "email": "sarah.thompson@hopefulhearts.com",
+        "phone": "+31 123456789"
+    },
+    {
+        "id": 10,
+        "name": "Emily Watson",
+        "position": "Aviary Manager",
+        "email": "emily.watson@featheredfriends.com",
+        "phone": "+31 987654321"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Animal Shelter Paws",
+        "description": "A shelter for pets in need of a home.",
+        "capacity": 50,
+        "atCapacity": false,
+        "openingDate": "2023-07-20",
+        "photoURL": "https://example.com/animal_shelter_paws.jpg",
+        "welcomeAnimals": ["Dogs", "Cats", "Rabbits", "Birds"],
+        "healthStatus": "Healthy animals",
+        "contactPerson": {
+            "id": 1,
+            "name": "Lisa Jacobs",
+            "position": "Shelter Manager",
+            "email": "lisa.jacobs@animalshelter.com",
+            "phone": "+31 123456789"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Animal Shelter Tails",
+        "description": "A shelter specializing in the care of rodents and reptiles.",
+        "capacity": 15,
+        "atCapacity": true,
+        "openingDate": "2024-02-15",
+        "photoURL": "https://example.com/animal_shelter_tails.jpg",
+        "welcomeAnimals": ["Rabbits", "Guinea Pigs", "Snakes", "Turtles"],
+        "healthStatus": "Both",
+        "contactPerson": {
+            "id": 2,
+            "name": "Peter Jansen",
+            "position": "Animal Caretaker",
+            "email": "peter.jansen@animalshelter.com",
+            "phone": "+31 987654321"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Friendly Furry Friends Shelter",
+        "description": "A shelter dedicated to finding loving homes for pets.",
+        "capacity": 40,
+        "atCapacity": false,
+        "openingDate": "2023-11-10",
+        "photoURL": "https://example.com/friendly_furry_friends_shelter.jpg",
+        "welcomeAnimals": ["Dogs", "Cats", "Rabbits", "Hamsters"],
+        "healthStatus": "Animals with medical needs",
+        "contactPerson": {
+            "id": 3,
+            "name": "Emily Johnson",
+            "position": "Adoption Coordinator",
+            "email": "emily.johnson@friendlyshelter.com",
+            "phone": "+31 987654321"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Critter Care Haven",
+        "description": "A shelter specializing in small animals and reptiles.",
+        "capacity": 20,
+        "atCapacity": false,
+        "openingDate": "2023-09-05",
+        "photoURL": "https://example.com/critter_care_haven.jpg",
+        "welcomeAnimals": ["Guinea Pigs", "Hamsters", "Turtles", "Geckos"],
+        "healthStatus": "Healthy animals",
+        "contactPerson": {
+            "id": 4,
+            "name": "Sarah Thompson",
+            "position": "Animal Welfare Officer",
+            "email": "sarah.thompson@crittercare.com",
+            "phone": "+31 123456789"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Paws and Claws Rescue Center",
+        "description": "A rescue center dedicated to providing care and shelter for all animals in need.",
+        "capacity": 60,
+        "atCapacity": false,
+        "openingDate": "2024-03-20",
+        "photoURL": "https://example.com/paws_and_claws_rescue.jpg",
+        "welcomeAnimals": ["Dogs", "Cats", "Rabbits", "Birds", "Turtles"],
+        "healthStatus": "Both",
+        "contactPerson": {
+            "id": 5,
+            "name": "David Wilson",
+            "position": "Rescue Coordinator",
+            "email": "david.wilson@pawsandclawsrescue.com",
+            "phone": "+31 123456789"
+        }
+    },
+    {
+        "id": 6,
+        "name": "Happy Tails Sanctuary",
+        "description": "A sanctuary providing lifelong care and love for senior and special needs animals.",
+        "capacity": 18,
+        "atCapacity": true,
+        "openingDate": "2023-12-15",
+        "photoURL": "https://example.com/happy_tails_sanctuary.jpg",
+        "welcomeAnimals": ["Senior Dogs", "Special Needs Cats", "Rescued Birds"],
+        "healthStatus": "Animals with medical needs",
+        "contactPerson": {
+            "id": 6,
+            "name": "Michelle Brown",
+            "position": "Sanctuary Manager",
+            "email": "michelle.brown@happytails.com",
+            "phone": "+31 987654321"
+        }
+    },
+    {
+        "id": 7,
+        "name": "Furry Friends Haven",
+        "description": "A shelter dedicated to providing temporary refuge and care for homeless pets.",
+        "capacity": 35,
+        "atCapacity": false,
+        "openingDate": "2023-10-10",
+        "photoURL": "https://example.com/furry_friends_haven.jpg",
+        "welcomeAnimals": ["Dogs", "Cats", "Rabbits", "Hamsters", "Guinea Pigs"],
+        "healthStatus": "Healthy animals",
+        "contactPerson": {
+            "id": 7,
+            "name": "Emma Carter",
+            "position": "Shelter Coordinator",
+            "email": "emma.carter@furryfriendshaven.com",
+            "phone": "+31 123456789"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Wildlife Rescue Center",
+        "description": "A center focused on rescuing and rehabilitating injured and orphaned wildlife.",
+        "capacity": 20,
+        "atCapacity": false,
+        "openingDate": "2024-01-20",
+        "photoURL": "https://example.com/wildlife_rescue_center.jpg",
+        "welcomeAnimals": ["Birds of Prey", "Small Mammals", "Reptiles"],
+        "healthStatus": "Animals with medical needs",
+        "contactPerson": {
+            "id": 8,
+            "name": "John Smith",
+            "position": "Wildlife Rehabilitator",
+            "email": "john.smith@wildliferescuecenter.com",
+            "phone": "+31 987654321"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Hopeful Hearts Animal Sanctuary",
+        "description": "A sanctuary providing care and love for abandoned and abused animals.",
+        "capacity": 50,
+        "atCapacity": false,
+        "openingDate": "2023-09-15",
+        "photoURL": "https://example.com/hopeful_hearts_sanctuary.jpg",
+        "welcomeAnimals": ["Dogs", "Cats", "Horses", "Pigs", "Goats"],
+        "healthStatus": "Both",
+        "contactPerson": {
+            "id": 9,
+            "name": "Sarah Thompson",
+            "position": "Sanctuary Manager",
+            "email": "sarah.thompson@hopefulhearts.com",
+            "phone": "+31 123456789"
+        }
+    },
+    {
+        "id": 10,
+        "name": "Feathered Friends Aviary",
+        "description": "A sanctuary dedicated to the care and conservation of exotic birds.",
+        "capacity": 30,
+        "atCapacity": false,
+        "openingDate": "2023-12-01",
+        "photoURL": "https://example.com/feathered_friends_aviary.jpg",
+        "welcomeAnimals": ["Parrots", "Cockatoos", "Macaws", "Toucans"],
+        "healthStatus": "Healthy animals",
+        "contactPerson": {
+            "id": 10,
+            "name": "Emily Watson",
+            "position": "Aviary Manager",
+            "email": "emily.watson@featheredfriends.com",
+            "phone": "+31 987654321"
+        }
+    }
+]
